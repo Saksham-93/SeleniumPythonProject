@@ -1,0 +1,15 @@
+2022-12-28 18:11:01,507 : INFO :test_e2e :Click on the Shop Tab
+2022-12-28 18:11:01,523 : INFO :test_e2e :To get the Products List
+2022-12-28 18:11:07,106 : INFO :test_e2e :The Country name isIndia
+2022-12-28 18:11:08,083 : INFO :test_e2e :Success Message is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-28 18:14:35,163 : INFO :test_e2e :Click on the Shop Tab
+2022-12-28 18:14:35,186 : INFO :test_e2e :To get the Products List
+2022-12-28 18:14:41,202 : INFO :test_e2e :The Country name isIndia
+2022-12-28 18:14:42,421 : INFO :test_e2e :Success Message is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-28 23:16:10,444 : INFO :test_e2e :Click on the Shop Tab
+2022-12-28 23:16:10,490 : INFO :test_e2e :To get the Products List
+2022-12-28 23:16:18,513 : INFO :test_e2e :The Country name isIndia
+2022-12-28 23:16:18,653 : INFO :test_e2e :Success Message is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
